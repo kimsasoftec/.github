@@ -21,8 +21,11 @@ Nos mantenemos siempre al día con las **últimas tendencias y tecnologías** pa
 
 ## 📞 Contáctanos  
 📧 **Email:** info@kimsasoft.com
+
 📞 **Whatsapp:** +593 99 554 4000
+
 🌍 **Web:** [www.kimsasoft.com](https://www.kimsasoft.com)  
+
 📍 **Ubicación:** Quito, Ecuador  
 
 ¡Transformemos juntos tus ideas en soluciones tecnológicas innovadoras!  
