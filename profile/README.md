@@ -20,9 +20,9 @@ En **Kimsasoft**, desarrollamos **aplicaciones móviles y web** con tecnología 
 Nos mantenemos siempre al día con las **últimas tendencias y tecnologías** para ofrecer soluciones modernas y eficientes.  
 
 ## 📞 Contáctanos  
-📧 Email: info@kimsasoft.com 
-📞 Whatsapp: +593 99 554 4000
-🌍 Web: [www.kimsasoft.com](https://www.kimsasoft.com)  
-📍 Ubicación: Quito, Ecuador  
+📧 **Email:** info@kimsasoft.com
+📞 **Whatsapp:** +593 99 554 4000
+🌍 **Web:** [www.kimsasoft.com](https://www.kimsasoft.com)  
+📍 **Ubicación:** Quito, Ecuador  
 
 ¡Transformemos juntos tus ideas en soluciones tecnológicas innovadoras!  
